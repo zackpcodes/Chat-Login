@@ -1,0 +1,1 @@
+print(bcrypt.hashpw(hP, bcrypt.gensalt()))
